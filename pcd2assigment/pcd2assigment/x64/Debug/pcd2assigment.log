@@ -1,0 +1,25 @@
+﻿  trainschedule.c
+C:\Users\ACER\source\repos\pcd2assigment\pcd2assigment\trainschedule.c(74,25): warning C4098: 'aMinuteValidate': 'void' function returning a value
+C:\Users\ACER\source\repos\pcd2assigment\pcd2assigment\trainschedule.c(78,25): warning C4098: 'aMinuteValidate': 'void' function returning a value
+C:\Users\ACER\source\repos\pcd2assigment\pcd2assigment\trainschedule.c(81,25): warning C4098: 'aMinuteValidate': 'void' function returning a value
+C:\Users\ACER\source\repos\pcd2assigment\pcd2assigment\trainschedule.c(87,24): warning C4098: 'aMinuteValidate': 'void' function returning a value
+C:\Users\ACER\source\repos\pcd2assigment\pcd2assigment\trainschedule.c(90,24): warning C4098: 'aMinuteValidate': 'void' function returning a value
+C:\Users\ACER\source\repos\pcd2assigment\pcd2assigment\trainschedule.c(103,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ACER\source\repos\pcd2assigment\pcd2assigment\trainschedule.c(108,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ACER\source\repos\pcd2assigment\pcd2assigment\trainschedule.c(332,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ACER\source\repos\pcd2assigment\pcd2assigment\trainschedule.c(344,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ACER\source\repos\pcd2assigment\pcd2assigment\trainschedule.c(425,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ACER\source\repos\pcd2assigment\pcd2assigment\trainschedule.c(437,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ACER\source\repos\pcd2assigment\pcd2assigment\trainschedule.c(488,9): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\ACER\source\repos\pcd2assigment\pcd2assigment\trainschedule.c(489,9): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\ACER\source\repos\pcd2assigment\pcd2assigment\trainschedule.c(490,9): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\ACER\source\repos\pcd2assigment\pcd2assigment\trainschedule.c(491,9): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\ACER\source\repos\pcd2assigment\pcd2assigment\trainschedule.c(492,9): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\ACER\source\repos\pcd2assigment\pcd2assigment\trainschedule.c(493,9): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\ACER\source\repos\pcd2assigment\pcd2assigment\trainschedule.c(494,9): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\ACER\source\repos\pcd2assigment\pcd2assigment\trainschedule.c(495,9): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\ACER\source\repos\pcd2assigment\pcd2assigment\trainschedule.c(496,9): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\ACER\source\repos\pcd2assigment\pcd2assigment\trainschedule.c(568,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ACER\source\repos\pcd2assigment\pcd2assigment\trainschedule.c(702,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ACER\source\repos\pcd2assigment\pcd2assigment\trainschedule.c(864,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  pcd2assigment.vcxproj -> C:\Users\ACER\source\repos\pcd2assigment\x64\Debug\pcd2assigment.exe

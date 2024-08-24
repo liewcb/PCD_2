@@ -1,0 +1,29 @@
+STR05 Seremban|8|7|Setapak|9|30|
+STR06 Seremban|6|0|Gemas|7|30|
+STR07 KL Sentral|7|0|Pavillion|7|20|
+STR08 KL Sentral|11|30|Seremban|12|30|
+STR11 Seremban|7|30|KL Sentral|8|30|
+STR12 Kajang|7|5|Gemas|7|59|
+STR13 Ipoh|8|0|Penang|10|15|
+STR15 Selama|13|27|Penang|15|20|
+NTR02 KL Sentral|0|30|Penang|6|0|
+NTR03 Seremban|6|50|KL Sentral|8|0|
+NTR04 Gemas|7|9|TRX|9|0|
+NTR05 Selama|20|5|Kampar|21|30|
+NTR06 Kampar|12|0|Ipoh|12|55|
+NTR10 Seremban|20|50|Rawang|21|40|
+STR01 KL Sentral|9|0|Kajang|9|50|
+STR09 Kajang|6|0|Seremban|6|35|
+STR10 KL Sentral|16|0|Kajang|16|50|
+STR02 Ipoh|14|20|Selama|15|20|
+STR17 Gemas|13|2|Kajang|15|0|
+STR18 Gemas|18|6|Ipoh|23|0|
+STR20 Penang|17|0|Selama|19|40|
+STR21 KL Sentral|13|2|Midvalley|13|26|
+STR22 KL Sentral|9|0|Semenyih|11|5|
+STR23 Kajang|17|5|Seremban|17|55|
+STR03 IPOH|15|0|BUKIT MERTAJAM|17|22|
+STR77 Ipoh|14|0|Bukit Mertajam|16|22|
+STR99 Setapak|8|0|KL Sentral|8|45|
+STO55 Setapak|7|50|Kepong|9|15|
+STO51 Setapak|6|0|Kepong|6|50|

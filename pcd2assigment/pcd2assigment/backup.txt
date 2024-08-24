@@ -1,0 +1,26 @@
+30-4-2024 01:54
+STR04 Gemas|6|0|Seremban|6|50|
+STR05 Seremban|7|15|KL Sentral|8|15|
+STR06 Seremban|6|0|Gemas|7|30|
+STR07 KL Sentral|7|0|Pavillion|7|20|
+STR08 KL Sentral|11|30|Seremban|12|30|
+STR11 Seremban|7|30|KL Sentral|8|30|
+STR12 Seremban|7|0|Gemas|8|30|
+STR13 Ipoh|8|0|Penang|10|15|
+STR15 Selama|13|27|Penang|15|20|
+NTR02 KL Sentral|0|30|Penang|6|0|
+NTR03 Seremban|6|50|KL Sentral|8|0|
+NTR04 Gemas|7|9|TRX|9|0|
+NTR05 Selama|20|5|Kampar|21|30|
+NTR06 Kampar|11|0|Ipoh|11|55|
+NTR07 Kajang|8|10|Seremban|8|55|
+NTR10 Seremban|20|50|Rawang|21|40|
+STR01 KL Sentral|9|0|Kajang|9|50|
+STR09 Kajang|6|0|Seremban|6|35|
+STR10 KL Sentral|16|0|Kajang|16|50|
+STR02 Ipoh|14|20|Selama|15|20|
+STR17 Gemas|13|2|Kajang|15|0|
+STR19 Sunway Velocity|10|20|My Town|10|58|
+STR18 Gemas|18|6|Ipoh|23|0|
+STR20 Penang|17|0|Selama|19|40|
+
